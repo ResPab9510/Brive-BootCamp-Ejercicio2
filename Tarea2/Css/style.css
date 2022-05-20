@@ -1,0 +1,28 @@
+h1  {
+        color: darkblue;
+    }
+
+h2  {
+        color: blue;
+    }
+
+.flex-container{
+                    display: flex;
+                    height: 5px;
+                    justify-content:  space-between;
+                    flex-wrap: wrap;
+                    align-content: center;
+                    overflow: scroll;
+                    padding: 10px;
+               }
+
+div.gallery {
+                            width: 250px;
+                            margin: 7px;
+                            border: 1px solid red;
+                            float: left;
+            }
+                          
+div.gallery img {
+                    width: 100%;
+                }

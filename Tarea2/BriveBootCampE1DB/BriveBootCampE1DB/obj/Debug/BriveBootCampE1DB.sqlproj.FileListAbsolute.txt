@@ -1,0 +1,8 @@
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\bin\Debug\BriveBootCampE1DB.dacpac
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\BriveBootCampE1DB.sqlproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\Model.xml
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\refactor.xml
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\postdeploy.sql
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\predeploy.sql
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\BriveBootCampE1DB.dll
+C:\Users\pablo\source\repos\BriveBootCampE1DB\BriveBootCampE1DB\obj\Debug\BriveBootCampE1DB.pdb
